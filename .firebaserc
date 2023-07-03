@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "pratitya-ba958"
+  },
+  "targets": {
+    "pratitya-ba958": {
+      "hosting": {
+        "adminv1": [
+          "pratitya"
+        ]
+      }
+    }
+  }
+}
